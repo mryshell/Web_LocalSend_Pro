@@ -22,10 +22,10 @@ A lightweight, secure, and ultra-fast web-based tool for **secure file and text 
 ## 🛠️ Setup & Execution
 
 ### 1. Prerequisites
-Make sure **Python 3** is installed on your system.
+Make sure `Python 3` is installed on your system.
 
 ### 2. Run the Server
-Open your terminal/CMD in the project directory and run:
+Open your `terminal`/`CMD` in the project directory and run:
 
 ```bash
 python localsend.py
