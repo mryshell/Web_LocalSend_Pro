@@ -7,6 +7,11 @@
 
 یک ابزار تحت وب، سبک و فوق‌العاده سریع برای **انتقال امن فایل و متن** بین دستگاه‌های مختلف (ویندوز، لینوکس، اندروید و iOS) در یک شبکه محلی (Wi-Fi مشترک) بدون نیاز به اینترنت یا برنامه‌های جانبی.
 
+___
+<p align="center">
+  <img src="screenshot1_darkmode.png" width="48%" alt="screenshot1_darkmode.png" />
+  <img src="screenshot2_whitemode.png" width="48%" alt="screenshot2_whitemode.png" />
+</p>
 ---
 
 ## ✨ ویژگی‌های کلیدی

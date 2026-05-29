@@ -6,7 +6,11 @@
 </p>
 
 A lightweight, secure, and ultra-fast web-based tool for **secure file and text transfer** between devices (Windows, Linux, Android, iOS) over a local network (shared Wi-Fi) without requiring internet or third-party apps.
-
+___
+<p align="center">
+  <img src="screenshot1_darkmode.png" width="48%" alt="screenshot1_darkmode.png" />
+  <img src="screenshot2_whitemode.png" width="48%" alt="screenshot2_whitemode.png" />
+</p>
 ---
 
 ## ✨ Key Features
